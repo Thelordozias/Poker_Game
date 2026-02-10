@@ -1,17 +1,14 @@
-Date: 2/5/2026
-Prof: Hao Tang
-Student: Ozias Kafando
+Poker_Game (Elevens)
 
+Deck.cs
 
-*Project Overview*
+Deck initialization with 52 cards and shuffle.
+Added Draw() method and updated RemainingCards.
+Added HasCards() to check whether the deck is empty.
 
-Creating a Card Game 
+GameController.cs
 
-
-*Classes*
-Card
-Deck
-Table
-GameController
-
-*Functions*
+Automatic dealing of 9 cards at game start.
+Validation of selections (sum equals 11 or JQK combination).
+Removal of validated cards and replacement from the deck.
+Win/loss checking 
