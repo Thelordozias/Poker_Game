@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\OneDrive\\Desktop\\Poker_Game\\Poker_Game\\Poker_Game.csproj": {}
+    "C:\\Users\\HP\\OneDrive\\Desktop\\Poker_Game\\Poker_Game.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\OneDrive\\Desktop\\Poker_Game\\Poker_Game\\Poker_Game.csproj": {
+    "C:\\Users\\HP\\OneDrive\\Desktop\\Poker_Game\\Poker_Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Desktop\\Poker_Game\\Poker_Game\\Poker_Game.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Desktop\\Poker_Game\\Poker_Game.csproj",
         "projectName": "Poker_Game",
-        "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Poker_Game\\Poker_Game\\Poker_Game.csproj",
+        "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Poker_Game\\Poker_Game.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Poker_Game\\Poker_Game\\obj\\",
+        "outputPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Poker_Game\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
